@@ -1,0 +1,123 @@
+
+[
+  {
+    "id": 1,
+    "name": "중구",
+    "img_src": "https://raw.githubusercontent.com/roseofparis2/my-city/main/junggu.jpg",
+    "spots": [
+      {
+        "id": 101,
+        "name": "나마스까르",
+        "category": ["식당"],
+        "description": "현지 느낌 물씬 탄두리치킨의 풍미",
+        "address": "울산 남구 삼산중로48번길 11 2층",
+        "hours": "11:00 - 22:00\n15:00 - 17:00 브레이크타임\n21:30 라스트오더 (주말 공휴일에는 브레이크타임 없습니다)",
+        "closed": "",
+        "extra_info": "",
+        "img_src": "https://raw.githubusercontent.com/roseofparis2/my-city/main/spot1.jpg"
+      },
+      {
+        "id": 102,
+        "name": "울산종갓집도서관",
+        "category": ["도서관"],
+        "description": "",
+        "address": "울산광역시 중구 종가3길 29",
+        "hours": "평일 일반자료실 1·2, 재미·열린마루 09:00 - 22:00\n평일 유아·어린이자료실 09:00 - 18:00\n주말 09:00 - 18:00",
+        "closed": "매주 월요일 및 법정공휴일, 특별한 사유로 관장이 공고한 날",
+        "extra_info": "도서 96,073권 보유",
+        "img_src": "https://raw.githubusercontent.com/roseofparis2/my-city/main/spot2.jpg"
+      },
+      {
+        "id": 103,
+        "name": "할매솥뚜껑삼겹살",
+        "category": ["식당", "맛집"],
+        "description": "특별한 볶음밥으로 마무리하는 기쁨",
+        "address": "울산광역시 중구 중앙길 92",
+        "hours": "16:00 - 23:00",
+        "closed": "매주 화요일",
+        "extra_info": "",
+        "img_src": "https://raw.githubusercontent.com/roseofparis2/my-city/main/spot3.png"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "남구",
+    "img_src": "https://raw.githubusercontent.com/roseofparis2/my-city/main/namgu.jpg",
+    "spots": [
+      {
+        "id": 104,
+        "name": "샤브르정원",
+        "category": ["식당"],
+        "description": "다양한 메뉴로 가득한 샤브샤브의 정석",
+        "address": "울산 남구 수암로128번길 14 메디컬타워 4동 2층",
+        "hours": "매일 11:00 - 21:20\n15:00 - 17:00 브레이크타임\n20:00 라스트오더",
+        "closed": "",
+        "extra_info": "",
+        "img_src": "https://raw.githubusercontent.com/roseofparis2/my-city/main/spot4.jpg"
+      },
+      {
+        "id": 105,
+        "name": "일품집",
+        "category": ["식당", "맛집"],
+        "description": "깊은 국물의 장어탕 추천",
+        "address": "울산 남구 삼산로355번길 20 1층",
+        "hours": "매일 11:00 - 22:00\n20:50 라스트오더",
+        "closed": "",
+        "extra_info": "",
+        "img_src": "https://raw.githubusercontent.com/roseofparis2/my-city/main/spot5.jpg"
+      },
+      {
+        "id": 106,
+        "name": "헤이다이닝",
+        "category": ["식당"],
+        "description": "인스타 감성이 살아있는 플레이팅 예술",
+        "address": "울산 남구 돋질로312번길 7 1층 헤이다이닝 울산삼산점",
+        "hours": "11:30 - 21:30\n15:00 - 17:00 브레이크타임",
+        "closed": "",
+        "extra_info": "",
+        "img_src": "https://raw.githubusercontent.com/roseofparis2/my-city/main/spot6.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "동구",
+    "img_src": "https://raw.githubusercontent.com/roseofparis2/my-city/main/donggu.jpg",
+    "spots": [
+      {
+        "id": 107,
+        "name": "씨앤포레",
+        "category": ["카페"],
+        "description": "넓은 좌석에서 누리는 아늑함",
+        "address": "울산 동구 해수욕장10길 80 1층",
+        "hours": "매일 09:00 - 22:00",
+        "closed": "",
+        "extra_info": "",
+        "img_src": "https://raw.githubusercontent.com/roseofparis2/my-city/main/spot7.jpg"
+      },
+      {
+        "id": 108,
+        "name": "울산솥집",
+        "category": ["식당"],
+        "description": "바다 보며 즐기는 정갈한 솥밥 한상",
+        "address": "울산 동구 일산진11길 23 2층 울산솥집",
+        "hours": "매일 11:00 - 21:00\n20:00 라스트오더",
+        "closed": "",
+        "extra_info": "",
+        "img_src": "https://raw.githubusercontent.com/roseofparis2/my-city/main/spot8.jpg"
+      },
+      {
+        "id": 109,
+        "name": "손가",
+        "category": ["식당", "맛집"],
+        "description": "바삭한 유린기의 새콤달콤 매력",
+        "address": "울산 동구 해수욕장9길 26 1층",
+        "hours": "11:30 - 22:00\n21:10 라스트오더",
+        "closed": "매주 월요일",
+        "extra_info": "",
+        "img_src": "https://raw.githubusercontent.com/roseofparis2/my-city/main/spot9.jpg"
+      }
+    ]
+  }
+]
